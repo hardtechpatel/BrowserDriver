@@ -4,6 +4,8 @@
     <list default="true" id="52e591c1-b359-4c40-9694-d253ff31c714" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../untitled/src/HomeWork.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/LeapYear" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/src/NumberMulti.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
